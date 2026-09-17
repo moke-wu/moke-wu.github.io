@@ -7,7 +7,7 @@ classes:
   - academic-page
 ---
 
-My teaching experience spans postgraduate econometrics and undergraduate economics. I have led R-based computer sessions and tutorials at the University of Edinburgh and the University of Strathclyde.
+My teaching experience spans postgraduate econometrics and undergraduate economics. I use **R** in MSc computer labs for empirical time-series analysis, while my broader quantitative toolkit includes **MATLAB, Stata, and Python**.
 
 ## University of Edinburgh
 
