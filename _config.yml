@@ -143,7 +143,7 @@ facebook:
   app_id                 :
   publisher              :
 
-og_image                 :
+og_image                 : "/images/social-preview.png"
 og_description           :
 
 # For specifying social profiles
