@@ -35,3 +35,23 @@ My teaching experience spans postgraduate econometrics and undergraduate economi
 *   Delivered tutorials supporting introductory economics, applied problem solving, and CORE Econ-based exercises.
 
 [Official course information](https://www.strath.ac.uk/studywithus/studyabroad/comingtostrathclyde/academicinformation/exchangeclasscatalogue/strathclydebusinessschool/)
+
+## Additional Teaching Experience
+
+### Yueqing No. 3 High School
+
+*Summer Instructor | English, Mathematics and Chemistry*
+
+- Delivered large-class teaching in English, mathematics, and chemistry, adapting explanations and classroom activities across different subject areas and levels of student understanding.
+
+### Independent Academic Tutor
+
+*English, IELTS and Mathematics | 2020–Present*
+
+- Provide one-to-one and small-group teaching in online and in-person settings, designing individualized learning plans based on students' starting points, learning needs, and academic goals.
+
+- Use diagnostic assessment, formative feedback, and regular progress reviews to adapt teaching and identify specific barriers to learning.
+
+- Place particular emphasis on developing effective learning strategies, learner autonomy, confidence, and sustained engagement beyond scheduled teaching sessions.
+
+- Develop digital learning resources in English language learning and examination preparation to support independent study.
