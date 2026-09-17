@@ -7,7 +7,7 @@ classes:
   - academic-page
 ---
 
-My research focuses on the macroeconomic and financial effects of geopolitical risk, with particular attention to international transmission, cross-country heterogeneity, and time variation. Methodologically, I am interested in Vector Autoregressions (VARs), Bayesian VARs, and time-varying parameter models.
+My research focuses on the macroeconomic and financial effects of geopolitical risk, with particular attention to international transmission, cross-country heterogeneity, and time variation. Methodologically, I am interested in Bayesian Macroeconometrics.
 
 ## Working Papers
 
@@ -21,16 +21,15 @@ Presented at the Scottish Graduate Programme in Economics (SGPE) Conference, Cri
 Geopolitical Risk (GPR) can reflect global tensions or country-specific dynamics. This paper shows that its macro-financial transmission depends on this geographic scope. Estimating over 50 country-specific Bayesian VARs for advanced and emerging economies, we find that global GPR acts predominantly as an inflationary supply disturbance. Output contractions under global shocks are concentrated in the Americas, while several Asian economies record short-run expansions consistent with trade diversion. Country-specific GPR shocks instead generate more heterogeneous inflation outcomes once common global variation is accounted for, and monetary tightening after these shocks is concentrated among emerging markets. On the financial side, baseline estimates offer limited evidence of a systemic liquidity freeze or broad-based domestic capital flight. More systematic cross-border patterns instead emerge regionally, though the direction of adjustment differs across blocs. China-specific GPR shocks stimulate active intra-regional portfolio reallocation among multipolar Asian neighbours, while US-specific GPR is associated with substantially larger output contractions in Canada and Mexico and muted capital-flow responses on impact. Germany-originating GPR similarly drives cost-push inflation and monetary tightening among energy-supplying European neighbours. The geographic nature of a GPR shock is thus central to designing an appropriate policy response.
 
 ---
-
 ## Work in Progress
 
-### Macro-Financial Transmission of Geopolitical Risk
+### Beyond the Average: Geopolitical Risk and Macroeconomic Dynamics
 
-*with [Ping Wu](PING_PERSONAL_WEBSITE) and [Sharada Nia Davidson](SHARADA_PERSONAL_WEBSITE)*
+*with [Ping Wu](https://pingwu.org/) and [Sharada Nia Davidson](https://sites.google.com/view/sharadaniadavidson/home)*
 
 **Work in progress.**
 
-This project examines how the macro-financial transmission of geopolitical risk evolves over time. It uses time-varying parameter methods to study whether the responses of macroeconomic and financial variables to geopolitical shocks change across different economic and financial environments.
+This project examines how the macro-financial transmission of geopolitical risk evolves over time and across events.
 
 ---
 
