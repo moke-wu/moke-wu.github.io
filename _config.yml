@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Moke Wu"
 title_separator          : "-"
 name                     : &name "Moke Wu"
-description: &description "Academic website of Moke Wu, PhD Candidate in Economics at the University of Strathclyde. Research in applied macroeconomics, international macroeconomics and finance, geopolitical risk, and Bayesian macroeconometrics."
+description: &description "Academic website of Moke Wu, PhD Candidate in Economics at the University of Strathclyde. Research in international macroeconomics and finance, geoeconomics, geopolitical risk, and applied Bayesian macroeconometrics."
 url                      : "https://moke-wu.github.io"
 baseurl                  : ""
 repository               : "moke-wu/moke-wu.github.io"
@@ -29,7 +29,6 @@ author:
   employer         : "University of Strathclyde"
   uri              :
   email            : "moke.wu@strath.ac.uk"
-  linkedin         : "moke-wu"
 
   # Academic websites
   academia         :
@@ -57,14 +56,14 @@ author:
   artstation       :
   bluesky          :
   facebook         :
-  flickr           :
+  flickr            :
   foursquare       :
   goodreads        :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "moke-wu"
   mastodon         :
   medium           :
   pinterest        :
@@ -79,7 +78,7 @@ author:
   xing             :
   youtube          :
   zhihu            :
-
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
@@ -149,10 +148,11 @@ og_description           :
 
 # For specifying social profiles
 social:
-  type                   :
-  name                   :
+  type                   : Person
+  name                   : "Moke Wu"
   links:
-
+    - "https://www.linkedin.com/in/moke-wu/"
+    - "https://github.com/moke-wu"
 # Analytics
 analytics:
   provider               : "false"
