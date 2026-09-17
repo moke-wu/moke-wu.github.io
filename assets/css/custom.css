@@ -81,6 +81,16 @@
   color: #555;
 }
 
+.home-fields {
+  margin: 0 0 28px 0;
+  line-height: 1.7;
+  color: #444;
+}
+
+.home-fields strong {
+  font-weight: 700;
+}
+
 .home-bio p {
   margin: 0 0 21px 0;
   line-height: 1.72;
