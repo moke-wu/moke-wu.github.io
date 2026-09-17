@@ -26,13 +26,18 @@ redirect_from:
       PhD Candidate in Economics<br>
       <a href="https://www.strath.ac.uk/business/economics/">University of Strathclyde</a>
     </p>
+    
+    <p class="home-fields">
+      <strong>Fields:</strong>
+      International Macroeconomics and Finance;
+      Geoeconomics;
+      Applied Bayesian Macroeconometrics
+    </p>
 
     <p>
-      My research focuses on applied macroeconomics, international macroeconomics and finance,
-      and Bayesian macroeconometrics. In particular, I study the macroeconomic and financial
-      transmission of geopolitical risk, with an emphasis on cross-country heterogeneity and
-      time variation in its transmission. Methodologically, I am particularly interested in
-      Vector Autoregressions, Bayesian VARs, and Time-Varying Parameter models.
+    My research examines the macroeconomic and financial effects of geopolitical risk,
+    with an emphasis on international transmission, cross-country heterogeneity, and
+    time variation in its transmission. 
     </p>
 
     <p>
